@@ -1,0 +1,36 @@
+  Qual o problema?
+      A quantidade de filas em hospitais.
+
+  PorQue o problema e relevante?
+      porque os pacientes esperam horas nas filas  para marcar uma consulta e  muitas vezes nem conseguem marcar
+      suas consultas.
+
+  Quem sao os concorrentes?
+
+  Existe mercado?POrque?
+       Sim. poque e um problema de administração publica.
+ 
+usuário acessa sistema faz cadastro para se consultar, cadastro tem  nome do paciente,cpf, n°Rg.
+
+O sistema retorna para o usuario horário da consulta, data da consulta e nome do clinico geral que vai atende-lo.
+
+
+
+O paciente só poderar marcar consulta no sistema apenas uma vez por semana.
+Marcando a consulta num dia será atendido no dia seguinte.
+
+secretária e clinico geral poderan  incluir e excluir pacientes do sistema:
+
+ excluir paciente do sistema caso falte a consulta  para que ele possa ter acesso ao sistema novamente na mesma semana.
+ incluir paciente caso precise voltar a se consultar antes de uma semana. A sua consulta já vai ficar marcada no sistema.
+
+casos de emergencia  o clinico geral emcaminha para emergência ou outro especialista comforme o caso, ou podem ser atendidos
+diretamente na emergência sem que precise marcar consultas no sistema.
+
+
+
+
+
+
+
+
