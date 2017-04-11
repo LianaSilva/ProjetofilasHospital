@@ -1,0 +1,6 @@
+sistemaMC
+É um sistema para quem gostaria de marcar uma consulta online de forma rápida pratica sem ficar muito tempo esperando numa fila. Agilizando assim o atendimento nos hospitais.
+ O Paciente solicita uma consulta no sistema efetua login e faz cadastramento.
+Paciente cadastrado seleciona medico e horário disponíveis faz agendamento.
+Paciente comparece no hospital. Médico realiza atendimento da consulta. Se tiver retorno da consulta medico Agenda retorno da consulta se não encerra consulta no sistema.
+
